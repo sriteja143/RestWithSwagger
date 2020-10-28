@@ -24,14 +24,14 @@ Convert response into xml
 		</dependency>		
 		
 <h2>sample req</h2>
---------------------------------------------------------------------------------------------
+</br>
 http://localhost:9898/teja
 accept application/xml
 
 <HelloBean>
     <message>teja</message>
 </HelloBean>
-</hr>
+</br>
 http://localhost:9898/teja
 accept application/json
 {
