@@ -29,9 +29,9 @@ http://localhost:9898/teja
 </br>
 accept application/xml
 
-"<HelloBean>
+&lt;HelloBean>
     <message>teja</message>
-</HelloBean>"
+</HelloBean>
 
 </br>
 http://localhost:9898/teja
