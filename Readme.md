@@ -1,5 +1,6 @@
 <h1> Rest with SWAGGER and XML/JSON format</h1>
 Swagger dependency
+
 -------------------------------------------------------------------------------------------------------
 		
 		<dependency>
@@ -22,15 +23,15 @@ Convert response into xml
 			<artifactId>jackson-dataformat-xml</artifactId>
 		</dependency>		
 		
-sample req ::
-----------------
+<h2>sample req</h2>
+--------------------------------------------------------------------------------------------
 http://localhost:9898/teja
 accept application/xml
 
 <HelloBean>
     <message>teja</message>
 </HelloBean>
-
+</hr>
 http://localhost:9898/teja
 accept application/json
 {
