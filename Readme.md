@@ -28,10 +28,10 @@ Convert response into xml
 http://localhost:9898/teja
 accept application/xml
 
-<span><HelloBean>
+"<HelloBean>
     <message>teja</message>
-</HelloBean>
-</span>
+</HelloBean>"
+
 </br>
 http://localhost:9898/teja
 accept application/json
