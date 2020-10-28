@@ -26,6 +26,7 @@ Convert response into xml
 <h2>sample req</h2>
 </br>
 http://localhost:9898/teja
+</br>
 accept application/xml
 
 "<HelloBean>
@@ -34,7 +35,9 @@ accept application/xml
 
 </br>
 http://localhost:9898/teja
+</br>
 accept application/json
+</br>
 {
   "message": "guru"
 }
