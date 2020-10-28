@@ -17,7 +17,7 @@ Swagger dependency
 ----------------------------------------------------------------------------------------------------------
 		
 Convert response into xml
--------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
 		<dependency>
 			<groupId>com.fasterxml.jackson.dataformat</groupId>
 			<artifactId>jackson-dataformat-xml</artifactId>
@@ -28,9 +28,10 @@ Convert response into xml
 http://localhost:9898/teja
 accept application/xml
 
-<HelloBean>
+<span><HelloBean>
     <message>teja</message>
 </HelloBean>
+<span>
 </br>
 http://localhost:9898/teja
 accept application/json
