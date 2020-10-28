@@ -31,7 +31,7 @@ accept application/xml
 <span><HelloBean>
     <message>teja</message>
 </HelloBean>
-<span>
+</span>
 </br>
 http://localhost:9898/teja
 accept application/json
