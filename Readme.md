@@ -28,10 +28,12 @@ Convert response into xml
 url == http://localhost:9898/teja
 </br> 
 headers == accept application/xml
+
 -----------------------------------------------------------------------------------------------------------
 &lt;HelloBean>
     <message>teja</message>
 &lt;/HelloBean>
+
 -----------------------------------------------------------------------------------------------------------
 </br>
 url == http://localhost:9898/teja
