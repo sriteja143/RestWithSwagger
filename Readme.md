@@ -25,6 +25,7 @@ Convert response into xml
 		
 <h2>sample req</h2>
 </br>
+<h3> req for xml output</h3>
 url == http://localhost:9898/teja
 </br> 
 headers == accept application/xml
@@ -36,11 +37,14 @@ headers == accept application/xml
 
 -----------------------------------------------------------------------------------------------------------
 </br>
+<h3> req for json output</h3>
 url == http://localhost:9898/teja
 </br>
 headers ==accept application/json
 </br>
+
 -------------------------------------------------------------------------------------------------------------
+
 {
   "message": "guru"
 }
