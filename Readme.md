@@ -29,8 +29,7 @@ Convert response into xml
 url == http://localhost:9898/teja
 </br> 
 headers == accept application/xml
-
------------------------------------------------------------------------------------------------------------
+</br>
 <h2> response</h2>
 &lt;HelloBean>
     <message>teja</message>
@@ -44,7 +43,6 @@ url == http://localhost:9898/teja
 headers ==accept application/json
 </br>
 
--------------------------------------------------------------------------------------------------------------
 <h2> response</h2>
 {
   "message": "guru"
