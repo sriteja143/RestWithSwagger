@@ -26,18 +26,19 @@ Convert response into xml
 <h2>sample req</h2>
 </br>
 url == http://localhost:9898/teja
-</br>
+</br> 
 headers == accept application/xml
-
+-----------------------------------------------------------------------------------------------------------
 &lt;HelloBean>
     <message>teja</message>
 &lt;/HelloBean>
-
+-----------------------------------------------------------------------------------------------------------
 </br>
 url == http://localhost:9898/teja
 </br>
 headers ==accept application/json
 </br>
+-------------------------------------------------------------------------------------------------------------
 {
   "message": "guru"
 }
